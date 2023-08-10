@@ -6,16 +6,12 @@ Create a cute penguin character using HTML and CSS art. This project showcases a
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can view the live demo of the penguin CSS art [here](https://your-demo-link).
 
 ## Features
 
