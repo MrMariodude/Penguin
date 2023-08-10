@@ -2,7 +2,7 @@
 
 Create a cute penguin character using HTML and CSS art. This project showcases a penguin standing on a snowy landscape with charming details that make it endearing. A fun and creative example of using CSS for artistic designs.
 
-![Penguin](./penguin-animation.gif)
+![Penguin](ezgif.com-video-to-gif.gif)
 
 ## Table of Contents
 
