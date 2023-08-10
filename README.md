@@ -37,5 +37,3 @@ Contributions are welcome! If you have ideas for improving the penguin CSS art o
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-**Note:** Replace placeholders (e.g., `https://your-demo-link`) with actual URLs. Make sure to include a GIF of the penguin animation (`penguin-animation.gif`) in your repository and update the image link accordingly in the README.
